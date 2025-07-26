@@ -6,7 +6,7 @@ INTERN ID:CT06DH521
 
 DOMAIN:FULL STACK WEB DEVELOPMENT
 
-DURATION:4 WEEKS
+DURATION:6 WEEKS
 
  ## Task 4 – 🧩 Chrome Extension for Time Tracking & Productivity Analytics
 
